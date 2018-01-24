@@ -1,6 +1,6 @@
  * Opony
 	 * Czy wszystkie takie same? (łącznie z tygodniem produkcji)
-	 * Czy nie zużywają się nierównomiernie?
+	 * Czy zużywają się równomiernie?
  * Spinki w nadkolach
  * Spasowanie elementów
  * Czy lampy są oryginalne
