@@ -8,22 +8,27 @@
 	 * podróbki to DEPO lub TYC
  * Roczniki szyb (czy przednia szyba wymieniana)
  	* Uszczelka/listwy przedniej szyby
+ * Badanie lakieru
+ 	* Wszystkie wnęki przy drzwiach
+	* Słupki (czy są wspawane ćwiartki)
  * Poziom oleju
  	* oraz stan oleu
  * Poziom płynu chłodniczego
  	* Szczelność układu chłodzenia
- * Plastiki w okół licznika
- * Sprawność klimatyzacji 
- 	* czy zmienia obciążenie silnika
- * Czy dwa kluczyki
+  * Czy dwa kluczyki
  	* czy pasuje do drzwi
 	* czy pasuje do bagażnika
 	* czy centralny działa na wszystkich drzwiach
- * Badanie lakieru
- 	* Wszystkie wnęki przy drzwiach
-	* Słupki (czy są wspawane ćwiartki)
+ * Sprawność klimatyzacji 
+ 	* czy zmienia obciążenie silnika
+ * Sprawdzić VIN na nadwoziu
+ 	* Pod maską tabliczka
+	* Na podszybiu
+	* W drzwiach kierowcy/pasażera
+	* W komputerze samochodu
  * Sprawdzić komputer (dopiero po jeździe próbnej)
 	 * Błędy
+ * Plastiki w okół licznika
  * Sprawdzić online
 	* [Historia pojazdu](https://historiapojazdu.gov.pl/)
 	* Vin checkers:
