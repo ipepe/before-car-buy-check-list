@@ -7,6 +7,7 @@
 	 * oryginalne to Hella lub Valeo
 	 * podróbki to DEPO lub TYC
  * Roczniki szyb (czy przednia szyba wymieniana)
+ 	* Uszczelka/listwy przedniej szyby
  * Poziom oleju
  	* oraz stan oleu
  * Poziom płynu chłodniczego
