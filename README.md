@@ -1,5 +1,6 @@
  * Opony
-	 * Czy wszystkie takie same? (łącznie z tygodniem produkcji)
+	 * Czy wszystkie takie same?
+	 	* Czy roczniki produkcji mają takie same?
 	 * Czy zużywają się równomiernie?
  * Spinki w nadkolach
  * Spasowanie elementów
