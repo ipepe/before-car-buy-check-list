@@ -8,7 +8,15 @@
 	 * podróbki to DEPO lub TYC
  * Roczniki szyb (czy przednia szyba wymieniana)
  * Poziom oleju
+ 	* oraz stan oleu
+ * Poziom płynu chłodniczego
+ 	* Szczelność układu chłodzenia
  * Plastiki w okół licznika
+ * Sprawność klimatyzacji 
+ 	* czy zmienia obciążenie silnika
+ * Czy dwa kluczyki
+ 	* czy pasuje do drzwi
+	* czy pasuje do bagażnika
  * Badanie lakieru
  	* Wszystkie wnęki przy drzwiach
 	* Słupki (czy są wspawane ćwiartki)
