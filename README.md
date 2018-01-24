@@ -18,6 +18,7 @@
  * Czy dwa kluczyki
  	* czy pasuje do drzwi
 	* czy pasuje do bagażnika
+	* czy centralny działa na wszystkich drzwiach
  * Badanie lakieru
  	* Wszystkie wnęki przy drzwiach
 	* Słupki (czy są wspawane ćwiartki)
