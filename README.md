@@ -35,6 +35,7 @@
 	* czy centralny działa na wszystkich drzwiach
  * Sprawność klimatyzacji 
  	* czy zmienia obciążenie silnika
+	* czy posiada czynnik po naciśnięciu na zawór (jeżeli niesprawna)
  * Sprawdzić VIN na nadwoziu
  	* Pod maską tabliczka
 	* Na podszybiu
