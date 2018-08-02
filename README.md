@@ -6,6 +6,11 @@
  * Czy wszystkie poduszki powietrzne obecne i nie zaślepione.
  * Czy ABS, TCS działa?
  * Czy sprzęgło do wymiany?
+ * Czy stan układu wydechowego
+   * Czy końcówka jest fabryczna?
+   * Czy był spawany?
+   * Czy jest katalizator?
+   * Czy sondy lambda poprawnie działają?
  * Opony
 	 * Czy wszystkie takie same?
 	 	* Czy roczniki produkcji mają takie same?
