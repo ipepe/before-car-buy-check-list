@@ -1,3 +1,11 @@
+ * Stan poduszek silnika
+ * Czy regulacja wysokości świateł działa
+ * Czy pas bezpieczeństwa się zwija z odpowiednią prędkością.
+ * Czy fotel jest stabilnie zamocowany i nie buja się.
+ * Czy komplet narzędzi/zestawu koła zapasowego.
+ * Czy wszystkie poduszki powietrzne obecne i nie zaślepione.
+ * Czy ABS, TCS działa?
+ * Czy sprzęgło do wymiany?
  * Opony
 	 * Czy wszystkie takie same?
 	 	* Czy roczniki produkcji mają takie same?
